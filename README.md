@@ -1,1 +1,1 @@
-# HANACloud-Workshop2 - GIT
+# HANACloud-Workshop2
